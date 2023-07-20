@@ -30,7 +30,7 @@ def chat_bot():
         best_match: str | None=find_best_match(user_input,[q["question"] for q in knowledge_base["questions"]])
         if best_match:
             answer=get_answer(best_match,knowledge_base)
-            print("Bot: "+answer)
+            print("Jarvis: "+answer)
         else: 
             print("Bot: I don't understand what you just said. Please teach me.")
             new_answer: str= input("Type your response or 'skip' to skip: ")
