@@ -1,8 +1,8 @@
 # project_Jarvis
 
-Jarvis is a simple conversational AI program that interacts with users by answering questions based on a knowledge base stored in a JSON file. The primary purpose of Jarvis is to provide information and answer queries on a predefined set of topics.
+A simple conversational AI program that interacts with users by answering questions based on a knowledge base stored in a JSON file. The primary purpose of Jarvis is to provide information and answer queries on a predefined set of topics.
 
-Working of Jarvis:
+Working:
 
 Knowledge Base Setup: Jarvis starts by loading its knowledge base from a JSON file named "knowledge_base.json." This file contains a list of dictionaries, where each dictionary represents a question and its corresponding answer.
 
