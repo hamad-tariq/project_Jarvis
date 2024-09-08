@@ -1,4 +1,4 @@
-# project_Jarvis
+# Conversational Model
 
 A simple conversational AI program that interacts with users by answering questions based on a knowledge base stored in a JSON file. The primary purpose of Jarvis is to provide information and answer queries on a predefined set of topics.
 
